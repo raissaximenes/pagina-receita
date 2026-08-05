@@ -1,6 +1,9 @@
-# Página de Receita 
+<h1 align="center"> Página de Receita</h1>
+<div align="center">
+  <img src="assets/imagereadme.png">
+</div>
 
-Este projeto é uma página simples de receita desenvolvida como exercício de HTML e CSS proposto pela Rocketseat. 
+Este projeto consiste em uma página de receita desenvolvida como exercício prático de **HTML** e **CSS**, proposto pela Rocketseat. O objetivo é aplicar conceitos fundamentais de estruturação de páginas e estilização utilizando boas práticas de desenvolvimento web.
 
 ## Funcionalidades
 - Lista de ingredientes
@@ -12,8 +15,12 @@ Este projeto é uma página simples de receita desenvolvida como exercício de H
 - CSS3
 - Figma
 
-## Como visualizar
+## Como executar 
 Abra o arquivo `index.html` no navegador.
 
 ## Objetivo
-Praticar HTML e CSS.
+Praticar os fundamentos de HTML e CSS, reforçando conceitos como:
+- Estrutura semântica;
+- Estilização com CSS;
+- Organização de layouts;
+- Interpretação de protótipos no Figma.
